@@ -31,7 +31,8 @@ Extracting necessary features
 Formatting data types
 ## Data Modeling
 The data will be modeled using three main tables: "orders," "people" (customers), and "returns." Relationships will be established between these tables to facilitate meaningful analysis. SQL will be used to create and manage the relational database.
-![](
+
+
 
 ## Analysis & Visualizations
 The analysis will encompass a wide range of insights and visualizations, including but not limited to:
