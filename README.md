@@ -29,23 +29,33 @@ Cleaning and handling missing data
 Combining relevant columns
 Extracting necessary features
 Formatting data types
+
+![](TB.png)
 ## Data Modeling
 The data will be modeled using three main tables: "orders," "people" (customers), and "returns." Relationships will be established between these tables to facilitate meaningful analysis. SQL will be used to create and manage the relational database.
 
-
+![](DM.png)
 
 ## Analysis & Visualizations
 The analysis will encompass a wide range of insights and visualizations, including but not limited to:
 
-Total sales, revenue, and profits
-Top customers based on sales
-Top products based on profits
-Regional performance analysis
-Country-wise sales distribution
-Identification of loss products
+    Total sales, revenue, and profits
+
+    Top customers based on sales
+
+    Top products based on profits
+
+    Regional performance analysis
+
+    Country-wise sales distribution
+
+    Identification of loss products
+
 Key performance indicators (KPIs) like average delivery date, return rate, etc.
+![](KPI.png)
 The visualizations will be created using Python libraries like Matplotlib, Seaborn, and Plotly. Interactive charts and graphs will be generated to convey the findings effectively.
 
+![](FSS.png)
 ## Conclusion / Recommendations
 Based on the analysis and visualizations, the project will conclude with key takeaways and recommendations. These may include strategies for improving sales, identifying focus regions, optimizing product offerings, and enhancing customer experience.
 
@@ -57,9 +67,10 @@ Set up the required environment and dependencies using the provided requirements
 Run the data transformation and modeling scripts to prepare the data.
 Launch the dashboard application to interactively explore the insights gained from the analysis.
 Credits
-This project was created by [Your Name].
+# This project was created by [JATIN KATIYAR].
 
-GitHub: https://github.com/chaseyuvi
+## GitHub: https://github.com/chaseyuvi
+
 License
 This project is licensed under the MIT License.
 
